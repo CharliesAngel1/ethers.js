@@ -12,7 +12,7 @@
     "@adraffy/ens-normalize": "https://github.com/ricmoo/ens-normalize.js",
     "@noble/hashes": "1.1.2",
     "@noble/secp256k1": "1.7.1",
-    "@types/node": "18.15.13",
+    "@types/node": "18.17.19",
     "aes-js": "4.0.0-beta.5",
     "tslib": "2.4.0",
     "ws": "8.5.0"
